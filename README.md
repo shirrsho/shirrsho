@@ -1,15 +1,10 @@
 ## Hello, I'm Hasnain Iqbal Shirsho!
-
+Undergraduate Software Engineering Student,<br/>Institute of Information Technology,  University of Dhaka.
+<br/>
 [![Resume](https://img.shields.io/badge/-Resume-red?style=flat&logo=appveyor&logoColor=white)](https://drive.google.com/file/d/1in-mQuDM9PVkytFTg5HfPJtPuVjfC7gD/view?usp=sharing)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zjayers/)
-
-**About Me:**
-
-- Undergraduate Software Engineering Student, Institute of Information Technology, University of Dhaka
-- Full-stack web developer. Strength: React, Django.
-<br/>
-<br/>
-**Expertise:**
+<br/><br/>
+**Languages & Tools:**
 <br/>
 <br/>
 <p >
