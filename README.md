@@ -8,9 +8,6 @@
 - Undergraduate Software Engineering Student, Institute of Information Technology, University of Dhaka
 - Full-stack web developer. Strength: React, Django.
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shirsho1106&show_icons=true&locale=en" alt="shirsho1106" /></p>
-
 **Expertise:**
 
 <p >
@@ -41,5 +38,7 @@
   &nbsp;&nbsp;&nbsp;<code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <br />
 </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shirsho1106&show_icons=true&locale=en" alt="shirsho1106" /></p>
 
 ---
