@@ -16,21 +16,21 @@ Undergraduate Software Engineering Student,<br/>Institute of Information Technol
 <!--   &nbsp;&nbsp;&nbsp;<code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code> -->
 <!--   &nbsp;&nbsp;&nbsp;<code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code> -->
   <br/>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  &nbsp;&nbsp;&nbsp;<code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  &nbsp;&nbsp;&nbsp;<code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   &nbsp;&nbsp;&nbsp;<code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
   &nbsp;&nbsp;&nbsp;<code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <br/>
   <br/>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  &nbsp;&nbsp;&nbsp;<code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   &nbsp;&nbsp;&nbsp;<code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
   &nbsp;&nbsp;&nbsp;<code><img width="15%" src="https://www.vectorlogo.zone/logos/minioio/minioio-ar21.svg"></code>
   &nbsp;&nbsp;&nbsp;<code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  &nbsp;&nbsp;&nbsp;<code><img width="15%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
   <br />
   &nbsp;&nbsp;&nbsp;<code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   &nbsp;&nbsp;&nbsp;<code><img width="15%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  &nbsp;&nbsp;&nbsp;<code><img width="15%" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></code>
+<!--   &nbsp;&nbsp;&nbsp;<code><img width="15%" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></code> -->>
+  &nbsp;&nbsp;&nbsp;<code><img width="15%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
   &nbsp;&nbsp;&nbsp;<code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
   <br />
 </p>
