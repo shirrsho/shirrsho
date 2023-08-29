@@ -35,6 +35,6 @@ Undergraduate Software Engineering Student,<br/>Institute of Information Technol
   <br />
 </p>
 <br/><br/>
-<p><img align="center" width="88%" src="https://github-readme-stats.vercel.app/api?username=shirsho1106&show_icons=true&locale=en" alt="shirsho1106" /></p>
+<p><img align="center" width="88%" src="https://github-readme-stats.vercel.app/api?username=shirrsho&show_icons=true&locale=en" alt="shirrsho" /></p>
 
 ---
