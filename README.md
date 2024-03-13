@@ -1,5 +1,5 @@
 ## Hello, I'm Hasnain Iqbal Shirsho!
-Undergraduate Software Engineering Student,<br/>Institute of Information Technology,  University of Dhaka.
+Software Engineer
 <br/><br/>
 [![Resume](https://img.shields.io/badge/-Resume-red?style=flat&logo=appveyor&logoColor=white)](https://drive.google.com/file/d/1R7gjONzJeYxxxsKR008S4Z1V_MSyNkPH/view?usp=sharing)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hasnain-iqbal-4703a124b/)
